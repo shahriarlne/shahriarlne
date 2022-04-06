@@ -33,12 +33,12 @@
 <br/>
 
 ## 3. 📊 My Github Status
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriar08&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriarlne&show_icons=true&count_private=true)  
 
 <br/>
 
 ## 4. My Github Contribution:
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shahriar08)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shahriarlne)  
 
 <br/>
 
