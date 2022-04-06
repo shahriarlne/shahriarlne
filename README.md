@@ -48,4 +48,4 @@
 <a href = "mailto:anik7744@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 </p>
 
-![Profile views](https://gpvc.arturio.dev/shahriar08)
+![Profile views](https://gpvc.arturio.dev/shahriarlne)
